@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Android_studio\Android_studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/EventBus" />
+            <option value="$PROJECT_DIR$/InitActivity" />
+            <option value="$PROJECT_DIR$/SpeechDemo2" />
+            <option value="$PROJECT_DIR$/VitamioListActivity" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/jcvideoplayer-lib" />
+            <option value="$PROJECT_DIR$/speechDemo" />
+            <option value="$PROJECT_DIR$/startallplayer" />
+            <option value="$PROJECT_DIR$/xListView" />
+            <option value="$PROJECT_DIR$/xutils" />
+            <option value="$PROJECT_DIR$/xutils3_sample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

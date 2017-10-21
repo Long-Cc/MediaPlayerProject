@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="3dp"
+    android:layout_centerInParent="true"
+    android:gravity="center"
+    android:visibility="gone"
+    android:orientation="horizontal">
+
+    <ProgressBar
+        android:layout_width="30dp"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:id="@+id/tv_buffer_netspeed"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         android:text="正在玩命缓冲中....40kb/s"
+        android:textColor="#ff00ff"
+        android:textSize="10sp"/>
+
+</LinearLayout>
